@@ -1,3 +1,3 @@
 function happyHolidays(string){
-  console.log('Happy holidays!')
+  return ('Happy holidays!')
 }
